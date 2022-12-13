@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trikon-backend",
+  "private_key_id": "c02e59befb2d6defd5e4facc52fd3a272978eca9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC40xE3Ya+IB0GV\nhXLj8GMB+udbh/yuUrmTYAIWpoY8LB5PFjaSxNrWV+IXJilhG17hMHwro4TxLJ3t\nNUnTgu4BLJ/9lXNhP69TenzbVyZokcEtcoBmGvEEC3k7onxy73471vUvMfKPhzbw\n1sV7ycJcwOSZR0ADtVCGi3U/L0HJhrLJUWEYCoa+Lmv9l9c2hHBxxAxtkF7x47gv\nc/tKOscB4qO4TGji4xuf2vQ/IS8/RG7JQBNNRhS8GEW2/MLS4kvveessVQJ01xNX\nxgVskM8R8GBPcxD2L5pjqEdtnXxl4x5dIvRKXysm9Xm1YwxgSGEiJ2SgOx3wwNcr\nRQD0P82dAgMBAAECggEADwDD1hb1/f44IW2krXfwaDMoZSp1L+cTXTEkXOzVxYbU\n9gQJAuHRHChO+CSW+Xo/OdtASnWQCi4eQBNnjlsY5rEAkr/h5BFx8hOQaj4D5jtQ\nrwJWBb58SouuOBGg9bPXBNSr8KcRYtEYfAqJxi+S+V8HdMwkbY33aa3ijbIQbniU\nNMYFmulDSXvgUyjGDFjark49WmLQuqB/KY4U6OgBhucAz1J9BtONwi/kq8We5c3r\n24ZDooNxXIJT3PDoaW1Qhf0V5RojeGGvDpEhsRVULOdEBEXPNFPOGkRY7mWDEB7B\nxR4FqMdk/anzq0KqhESCvF/dhhlu3klAWu8jE7Q4mQKBgQD9h4wiosbUkH3S6JOh\nqnQnYq9u9xzWEGx8j8wQp53nBSjxiN+PZtpXo8r1VB2QS8TLS7x3d9dNt98fMpvU\nG0t2yuV8Krc9wscZgPJ0hOZjoROgDNCirq2a8lWDEcdcyvZxqKUfuaFwaBA1CQAb\nx9rr8sqYE9TnEqkQu6VmOhMUOQKBgQC6oCEAKRpqJkFa9coGW86RFJYQq6UhQ0j1\nZ48gvGK7XQzc8fjntpPhI24jsMsuyui/TYgTiZsy/IXWZxV9YUTorGiFTzW6JecF\nFVrMPWmUhWSNb0FNtPJYA5bz+pQXXr/xgRBq9hbpsm5UPgt5eI7eoLX1z1d8oOa0\ndTjPLMCshQKBgH1sn3FLIh5q1TSQBulF0Gzjr3KwIb3tJh6BbS0YH0/5B4ZmdmMV\nORN+Xpv73xxRv6vrbfOUgBlcy689dEX8stq0Cc/hugF96M2/MzNdxDSprXHSpSy2\nSgCLvq43D2/ioQUdr4MAbNOVR99U8o7L0oxD8uJFfWBLpQQ4MN1gAaxRAoGAHm4J\ns3sAQZqnQWueW1cQ4XsX1PQH4tqTxN/z6ISPHLnZZRVXXoDYr/cU+GDVYHXZaYf8\nziK72Z5vPDxmtqDrmXyzNjlqK0YO2zdWLMM+uebeNGmVnlQIx+0d6f5Ls1vRtFE1\nGhuyNLzRXI8ZU98ifI573O7H9xxNQdNzReSoLfkCgYAQJeB8I8aGhIyZ+WydqbcW\n6g4Ix59Y+MwF230liR2XVLQRYWDUGeSR/FEGXoT+A6t3Xc5fc4bBC69OLMj41ez8\ny74rkM/qoNM/Sx/rowQbl4yEgK5V8X+IMUAiJvwI8guxmyQUXB7hgcCGsF5ErjTA\nS6JB9OoilZxBZG4XVMdZ4Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trikon@trikon-backend.iam.gserviceaccount.com",
+  "client_id": "118162984716137544129",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trikon%40trikon-backend.iam.gserviceaccount.com"
+}
